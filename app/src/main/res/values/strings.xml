@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+    <string name="tvTitle">Android Weather App</string>
+    <string name="etCityHint">Enter City Here</string>
+    <string name="tvResultsHint">Results Appear Here</string>
+    <string name="tvMinTempHint">Minimum Temp Appears Here</string>
+    <string name="tvMaxTempHint">Maximum Temp Appears Here</string>
+    <string name="ivLogoContentDescription">logo</string>
+    <string name="btnGetTemperature">Get Temp</string>
+    <string name="btnClear">Clear</string>
+</resources>
